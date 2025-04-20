@@ -1,6 +1,5 @@
 
 
-```markdown
 # Diamond Price Prediction
 
 This project focuses on predicting the price of diamonds using machine learning techniques. It leverages data analysis and machine learning models to provide accurate price predictions based on various diamond attributes.
